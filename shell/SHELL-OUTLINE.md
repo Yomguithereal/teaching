@@ -24,6 +24,10 @@
 
 * `vim`
 
+## Piping
+
+* `ls | wc -l`
+
 ## Searching, mangling
 
 * `grep`
@@ -35,10 +39,6 @@
 ## Internet
 
 * `curl`
-
-## Piping
-
-* `ls | wc -l`
 
 ## Industrialization
 
