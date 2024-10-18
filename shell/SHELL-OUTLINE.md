@@ -19,7 +19,7 @@
 * `echo coucou > file.txt`
 * `cat`, `head`, `tail`
 * `mv`, `cp`
-* `mkdir`, `rmdir`, `rm`
+* `mkdir`, `rmdir`, `rm` (beware, trash bin is not a thing)
 * `gzip`, `gunzip`
 * `find` (bye bye flag conventions)
 * `du`, `df`
