@@ -9,7 +9,8 @@
 ## Basics
 
 * streams: stdin, stdout, stderr
-* commands, subcommands, long flags, short flags, etc.
+* typing on a keyboard is tiring as a key CLI principle
+* commands, subcommands, long flags, short flags, short flag clusters etc.
 * history with up arrows, Ctrl+R
 * clearing with Ctrl+L
 * autocompletion
